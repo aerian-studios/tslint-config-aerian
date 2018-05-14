@@ -1,0 +1,13 @@
+{
+  "name": "tslint-config-aerian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aerian-studios/tslint-config-aerian.git",
+  "author": "Matt Kane <ascorbic@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tslint-config-prettier": "^1.12.0",
+    "tslint-consistent-codestyle": "^1.13.0",
+    "tslint-eslint-rules": "^5.2.0"
+  }
+}
